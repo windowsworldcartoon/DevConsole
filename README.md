@@ -22,8 +22,6 @@ To use DevConsole, simply open the `app.exe` file and start typing commands.
 
 
 ## Features
-
-* **Task Manager**: A built-in task manager that allows you to view and manage running processes.
 * **File System**: A file system that allows you to create, edit, and delete files and directories.
 run 
 ```Bash
@@ -33,8 +31,6 @@ touch test.py
 ```
 
 * **Command Line**: A command line interface that allows you to run commands and scripts.
-* **Code Editor**: A built-in code editor that allows you to write and edit code.
-* **Debugging Tools**: A set of debugging tools that allow you to debug your code.
 
 ## Getting Started
 
@@ -50,7 +46,7 @@ Here are some basic commands that you can use in DevConsole:
 * `mkdir`: Creates a new directory.
 * `touch`: Creates a new file.
 * `rm`: Deletes a file or directory.
-* `tasklist`: Lists the running processes.
+* 
 
 
 
