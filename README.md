@@ -80,7 +80,7 @@ Coming Soon
 DevConsole was created by [windowsworldcartoon](https://github.com/windowsworldcartoon).
 
 
-#  # License
+## License
 
 DevConsole is licensed under the MIT License. See the (LICENSE)[https://github.com/windowsworldcartoon/DevConsole/blob/main/LICENSE] file for more information.
 
