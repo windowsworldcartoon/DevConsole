@@ -91,3 +91,16 @@ DEVCONSOLE ERR! Example Error
 DEVCONSOLE ERR! A complete log of this run can be found in: C:\DevConsole\logs\devconsole.log
 ```
 
+
+----------------
+
+**Important Notice**
+
+The DevConsole app is moving to a new location on June 2025. Please uninstall the app and reinstall it in https://github.com/windowsworldcartoon/DevConsole/releases.
+
+The new app Is Coming soon
+
+**Date of Move:** June 2025
+We apologize for any inconvenience this may cause and appreciate your understanding as we make this transition.
+
+
