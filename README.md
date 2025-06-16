@@ -103,4 +103,6 @@ The new app Is Coming soon
 **Date of Move:** June 2025
 We apologize for any inconvenience this may cause and appreciate your understanding as we make this transition.
 
+i cant publish it in C# due to alot of bugs
+
 
