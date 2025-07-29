@@ -1,4 +1,6 @@
 {
   "version": "1.0",
-  "deprecated": []
+  "deprecated": [
+    "1.1"
+  ]
 }
