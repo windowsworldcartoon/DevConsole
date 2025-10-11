@@ -4,7 +4,7 @@ DevConsole is a powerful and flexible development console that provides a wide r
 
 
 ## NEW VERSION
-4.30.5 is Coming out today 🎉
+1.2 is Coming out today 🎉
 
 ## New Features
 * **test-notify**: test-notify is a command that allows you to send notifications to your desktop.
@@ -91,18 +91,5 @@ DEVCONSOLE ERR! Example Error
 DEVCONSOLE ERR! A complete log of this run can be found in: C:\DevConsole\logs\devconsole.log
 ```
 
-
-----------------
-
-**Important Notice**
-
-The DevConsole app is moving to a new location on June 2025. Please uninstall the app and reinstall it in https://github.com/windowsworldcartoon/DevConsole/releases.
-
-The new app Is Coming soon
-
-**Date of Move:** June 2025
-We apologize for any inconvenience this may cause and appreciate your understanding as we make this transition.
-
-i cant publish it in C# due to alot of bugs
 
 
