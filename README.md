@@ -4,7 +4,7 @@ DevConsole is a powerful and flexible development console that provides a wide r
 
 
 ## NEW VERSION
-1.2 is Coming out today 🎉
+1.5 is Coming out today 🎉
 
 ## New Features
 New commands:
